@@ -16,11 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="remove import statement">
-      <change afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.js" afterDir="false" />
+    <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="add dynamic content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-guide/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600507736840</updated>
-      <workItem from="1600507737887" duration="1873000" />
+      <workItem from="1600507737887" duration="3004000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -89,7 +88,42 @@
       <option name="project" value="LOCAL" />
       <updated>1600508402180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove class">
+      <created>1600509695829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600509695829</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add a new Person componente">
+      <created>1600509768308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600509768308</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create a file and function">
+      <created>1600509787013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600509787013</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nothing">
+      <created>1600509810627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600509810627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add dynamic content">
+      <created>1600510128781</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600510128781</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,17 +156,30 @@
     <MESSAGE value="create file" />
     <MESSAGE value="remove element" />
     <MESSAGE value="remove import statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove import statement" />
+    <MESSAGE value="remove class" />
+    <MESSAGE value="add a new Person componente" />
+    <MESSAGE value="create a file and function" />
+    <MESSAGE value="nothing" />
+    <MESSAGE value="add dynamic content" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dynamic content" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="386" y="181" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1600510181347" />
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog" timestamp="1600510096083">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1600510096083" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1600508193464">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600508193464" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600508403855">
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600510130028">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600508403855" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600510130028" />
     <state x="443" y="262" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600507964784">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
