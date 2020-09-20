@@ -16,10 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="add dynamic content">
+    <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="props">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-guide/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600507736840</updated>
       <workItem from="1600507737887" duration="3004000" />
+      <workItem from="1600575880574" duration="824000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600510128781</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="props">
+      <created>1600575911642</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600575911642</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +159,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create file" />
@@ -161,7 +170,8 @@
     <MESSAGE value="create a file and function" />
     <MESSAGE value="nothing" />
     <MESSAGE value="add dynamic content" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dynamic content" />
+    <MESSAGE value="props" />
+    <option name="LAST_COMMIT_MESSAGE" value="props" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
@@ -176,10 +186,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600508193464" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600510130028">
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600575945906">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600510130028" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600575945906" />
     <state x="443" y="262" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600507964784">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
