@@ -67,6 +67,8 @@
       <updated>1600507736840</updated>
       <workItem from="1600507737887" duration="3004000" />
       <workItem from="1600575880574" duration="2588000" />
+      <workItem from="1600580091522" duration="1750000" />
+      <workItem from="1600675220659" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -138,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600578282852</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add SwitchNameHandler">
+      <created>1600580180696</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600580180696</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +188,8 @@
     <MESSAGE value="add dynamic content" />
     <MESSAGE value="props" />
     <MESSAGE value="state" />
-    <option name="LAST_COMMIT_MESSAGE" value="state" />
+    <MESSAGE value="add SwitchNameHandler" />
+    <option name="LAST_COMMIT_MESSAGE" value="add SwitchNameHandler" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
@@ -194,10 +204,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600508193464" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600578284047">
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600580182739">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600578284047" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600580182739" />
     <state x="443" y="262" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600507964784">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
