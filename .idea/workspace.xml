@@ -17,10 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="use react hook">
-      <change afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-guide/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +54,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practies" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,6 +73,8 @@
       <workItem from="1600575880574" duration="2588000" />
       <workItem from="1600580091522" duration="1750000" />
       <workItem from="1600675220659" duration="2995000" />
+      <workItem from="1600683226200" duration="1738000" />
+      <workItem from="1600759722154" duration="3315000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600675602793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="session_1 complete">
+      <created>1600683264815</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600683264815</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +210,8 @@
     <MESSAGE value="state" />
     <MESSAGE value="add SwitchNameHandler" />
     <MESSAGE value="use react hook" />
-    <option name="LAST_COMMIT_MESSAGE" value="use react hook" />
+    <MESSAGE value="session_1 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="session_1 complete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
@@ -212,22 +222,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1600510096083" />
-    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1600678199329">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1600763268260">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600678199329" />
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600763268260" />
     <state x="394" y="0" key="RollbackChangesDialog" timestamp="1600675806235">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="394" y="0" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1600675806235" />
-    <state x="142" y="6" key="SettingsEditor" timestamp="1600508193464">
+    <state x="142" y="6" key="SettingsEditor" timestamp="1600684482364">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600508193464" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600675604847">
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600684482364" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600683266472">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600675604847" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600683266472" />
     <state x="443" y="262" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600507964784">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
