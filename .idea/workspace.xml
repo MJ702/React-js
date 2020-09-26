@@ -17,11 +17,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="use react hook">
-      <change afterPath="$PROJECT_DIR$/react-guide/src/ErroBoundary/ErrorBoundary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-guide/src/Persons/Persons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Persons/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Persons/Person/Person.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,12 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kasod\WebstormProjects\react-js\react-guide\src\components" />
+      <recent name="C:\Users\kasod\WebstormProjects\react-js\react-guide\src\Persons" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +84,7 @@
       <workItem from="1600683226200" duration="1738000" />
       <workItem from="1600759722154" duration="3315000" />
       <workItem from="1601013117350" duration="4995000" />
+      <workItem from="1601108438823" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -177,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601016481212</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add ErrorBoundary.js">
+      <created>1601108620777</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601108620777</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +236,8 @@
     <MESSAGE value="use react hook" />
     <MESSAGE value="session_1 complete" />
     <MESSAGE value="add css module" />
-    <option name="LAST_COMMIT_MESSAGE" value="add css module" />
+    <MESSAGE value="add ErrorBoundary.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ErrorBoundary.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
@@ -261,10 +276,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1601016619349" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1601016483903">
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1601108668793">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1601016483903" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1601108668793" />
     <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1601016457011">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
