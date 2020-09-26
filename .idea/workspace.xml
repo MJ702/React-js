@@ -17,10 +17,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="use react hook">
-      <change afterPath="$PROJECT_DIR$/react-guide/src/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-guide/src/ErroBoundary/ErrorBoundary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,7 +59,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../practies" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -76,7 +77,7 @@
       <workItem from="1600675220659" duration="2995000" />
       <workItem from="1600683226200" duration="1738000" />
       <workItem from="1600759722154" duration="3315000" />
-      <workItem from="1601013117350" duration="3284000" />
+      <workItem from="1601013117350" duration="4995000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600683264815</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add css module">
+      <created>1601016481212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601016481212</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +221,8 @@
     <MESSAGE value="add SwitchNameHandler" />
     <MESSAGE value="use react hook" />
     <MESSAGE value="session_1 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="session_1 complete" />
+    <MESSAGE value="add css module" />
+    <option name="LAST_COMMIT_MESSAGE" value="add css module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
@@ -228,34 +237,38 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600763268260" />
-    <state width="1259" height="170" key="GridCell.Tab.0.bottom" timestamp="1601013235474">
+    <state width="1259" height="170" key="GridCell.Tab.0.bottom" timestamp="1601018127479">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="170" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1601013235474" />
-    <state width="1259" height="170" key="GridCell.Tab.0.center" timestamp="1601013235474">
+    <state width="1259" height="170" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1601018127479" />
+    <state width="1259" height="170" key="GridCell.Tab.0.center" timestamp="1601018127479">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="170" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1601013235474" />
-    <state width="1259" height="170" key="GridCell.Tab.0.left" timestamp="1601013235474">
+    <state width="1259" height="170" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1601018127479" />
+    <state width="1259" height="170" key="GridCell.Tab.0.left" timestamp="1601018127479">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="170" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1601013235474" />
-    <state width="1259" height="170" key="GridCell.Tab.0.right" timestamp="1601013235474">
+    <state width="1259" height="170" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1601018127479" />
+    <state width="1259" height="170" key="GridCell.Tab.0.right" timestamp="1601018127479">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="170" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1601013235474" />
+    <state width="1259" height="170" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1601018127479" />
     <state x="394" y="0" key="RollbackChangesDialog" timestamp="1601015120182">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="394" y="0" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1601015120182" />
-    <state x="142" y="6" key="SettingsEditor" timestamp="1600684482364">
+    <state x="142" y="6" key="SettingsEditor" timestamp="1601016619349">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1600684482364" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1600683266472">
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1601016619349" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1601016483903">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1600683266472" />
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1601016483903" />
+    <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1601016457011">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.720@0.0.1280.720" timestamp="1601016457011" />
     <state x="443" y="262" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600507964784">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
