@@ -17,13 +17,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27184391-17d1-431a-b56d-8eb7c0955b84" name="Default Changelist" comment="use react hook">
-      <change afterPath="$PROJECT_DIR$/react-guide/src/components/Cockpit/Cockpit.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/ErroBoundary/ErrorBoundary.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/react-guide/src/components/Cockpit/Cockpit.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/components/Cockpit/Cockpit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/components/Persons/Persons.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/components/Persons/Persons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-guide/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/containers/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-guide/src/containers/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/containers/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-guide/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-guide/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <workItem from="1600759722154" duration="3315000" />
       <workItem from="1601013117350" duration="4995000" />
       <workItem from="1601108438823" duration="903000" />
-      <workItem from="1601109434257" duration="2859000" />
+      <workItem from="1601109434257" duration="3933000" />
     </task>
     <task id="LOCAL-00001" summary="create file">
       <created>1600508214439</created>
@@ -204,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601109715212</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="create new component">
+      <created>1601112360816</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601112360816</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +256,8 @@
     <MESSAGE value="add css module" />
     <MESSAGE value="add ErrorBoundary.js" />
     <MESSAGE value="folder strcutre" />
-    <option name="LAST_COMMIT_MESSAGE" value="folder strcutre" />
+    <MESSAGE value="create new component" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new component" />
   </component>
   <component name="WindowStateProjectService">
     <state x="386" y="181" key="#Notifications" timestamp="1600510181347">
@@ -291,14 +296,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1601016619349" />
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1601109890171">
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2" timestamp="1601112374375">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1601109890171" />
-    <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1601016457011">
+    <state x="233" y="90" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1601112374375" />
+    <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1601112384717">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.720@0.0.1280.720" timestamp="1601016457011" />
+    <state x="457" y="13" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.720@0.0.1280.720" timestamp="1601112384717" />
     <state x="443" y="262" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600507964784">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
